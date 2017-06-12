@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Cinema.unity
+  isLoaded: 1
+  isActive: 1
